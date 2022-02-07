@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Fronted Mentor](https:
 
     ### Links
 
-- Solution URL: [Qr Code Component]()
+- Solution URL: [Qr Code Component](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css3-eNiVmNSON)
 
-- Live Site URL: [Qr Card](https://monks-qr-code.netlify.app/)
+- Live Site URL: [Qr Card](https://sarahmsd.github.io/Qr-Code-Component/)
 - [Author](https://github.com/sarahmsd)
