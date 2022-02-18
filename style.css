@@ -1,8 +1,11 @@
+*{
+    font-family: 'Outfit';
+}
+
 body{
     background-color: hsl(212, 45%, 89%);
     text-align: center;  
-    padding-top: 5%;
-    font-family: 'Outfit';
+    padding-top: 5%;    
     font-weight: 700px;
 }
 
